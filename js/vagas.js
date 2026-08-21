@@ -1,18 +1,14 @@
-function lampada() {
+function ligarLampada() {
 
-    const imagens = document.querySelector('#img')
-
-    const ligar = document.querySelector('#ligar')
-    const desligar = document.querySelector('#desligar')
-
-    ligar.addEventListener('click', () => {
-        imagens.src = "../IMG/green-circle-emoji.jpg";
-    })
-
-    desligar.addEventListener('click', () => {
-        imagens.src = "../IMG/images.jpg";
-    })
+    const imagens = document.getElementById('img')
+    imagens.src = "/IMG/green-circle-emoji.jpg"
 
 }
 
-lampada()
+function desligarLampada() {
+
+    const imagens = document.querySelector('#img')
+    imagens.src = "/IMG/images.jpg";
+
+}
+
