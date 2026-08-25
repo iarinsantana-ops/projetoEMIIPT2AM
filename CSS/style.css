@@ -1,5 +1,6 @@
 *{
   box-sizing: border-box;
+  text-align: center;
 }
 
 body{
@@ -32,7 +33,8 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #16a8a8;
-  height: 300px; 
+  height: 300px;
+  text-align: center; 
 }
 section::after {
   content: "";
@@ -63,7 +65,7 @@ footer {
 
 .banner h1 {
     color: rgb(253, 253, 253);
-    font-size: 40px;
+    font-size: 69px;
     font-family:'Playfair Display', serif;
 }
 
@@ -91,6 +93,7 @@ article {
   width: 50%;
   background-color: #b3fff9;
   padding: 50px;
+  text-align: center;
   
 }
 article div {
@@ -132,4 +135,7 @@ article div {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+.p {
+  text-align: center;
 }
