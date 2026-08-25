@@ -105,10 +105,10 @@ article div {
     border-radius: 300px;
     width: 225px;
     height: 200px;
-     box-shadow: 3px 3px 3px purple;
+     box-shadow: 3px 3px 3px rgb(0, 107, 84);
 }
 .card{
-    background-color: #c08aff;
+    background-color: #1f947b;
     height: 380px;
     width: 350px;
     border-radius: 50px;
@@ -117,7 +117,7 @@ article div {
     text-align: center;
     margin-left: 20px;
     margin-top: 15px;
-     box-shadow: 3px 3px 3px purple;
+     box-shadow: 3px 3px 3px rgb(0, 85, 57);
 }
 .preco{
     font-size: 18px;
