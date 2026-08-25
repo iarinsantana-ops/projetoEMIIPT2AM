@@ -12,3 +12,16 @@ function desligarLampada() {
 
 }
 
+function ocupada() {
+
+    const imagens = document.getElementById('img2')
+    imagens.src = "/IMG/green-circle-emoji.jpg"
+
+}
+
+function desocupada() {
+
+    const imagens = document.querySelector('#img2')
+    imagens.src = "/IMG/images.jpg";
+
+}
