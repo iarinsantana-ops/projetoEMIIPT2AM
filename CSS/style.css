@@ -4,12 +4,12 @@
 
 body{
   font-family: Arial, Helvetica, sans-serif;
-    background-color: #d1a8ff;
+    background-color: #c2fff7;
 
 }
 
 header {
-  background-color: #3c0074;
+  background-color: #3bffe5;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -19,7 +19,7 @@ nav {
   float: left;
   width: 10%;
   height: 1000px; 
-  background: #d3adff;
+  background: #7effee;
   padding: 20px;
 }
 nav ul {
@@ -31,7 +31,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #ead1ff;
+  background-color: #16a8a8;
   height: 300px; 
 }
 section::after {
@@ -40,7 +40,7 @@ section::after {
   clear: both;
 }
 footer {
-  background-color: #3c0074;
+  background-color: #158674;
   padding: 10px;
   text-align: center;
   color: white;
@@ -53,7 +53,7 @@ footer {
 }
 
 .banner {
-    background-color: #4B0082;
+    background-color: #7effe3;
     height: 200px;
     position: relative;
     display: flex;
@@ -62,7 +62,7 @@ footer {
 }
 
 .banner h1 {
-    color: white;
+    color: rgb(253, 253, 253);
     font-size: 40px;
     font-family:'Playfair Display', serif;
 }
@@ -82,15 +82,16 @@ section {
 }
 
 nav {
-  width: 20%;
-  background: #d3adff;
+  width: 10%;
+  background: #159b90;
   padding: 20px;
 }
 
 article {
-  width: 80%;
-  background-color: #ead1ff;
-  padding: 30px;
+  width: 50%;
+  background-color: #b3fff9;
+  padding: 50px;
+  
 }
 article div {
   background: #f3e8ff;
