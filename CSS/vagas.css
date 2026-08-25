@@ -14,7 +14,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: #d8d1df
+  color: #482a66
 }
 nav {
   float: left;
@@ -64,7 +64,7 @@ footer {
 }
 
 .banner h1 {
-    color: rgb(253, 253, 253);
+    color: rgb(116, 9, 9);
     font-size: 69px;
     font-family:'Playfair Display', serif;
 }
@@ -97,7 +97,7 @@ article {
   
 }
 article div {
-  background: #f3e8ff;
+ 
   padding: 20px;
   border-radius: 10px;
 }
